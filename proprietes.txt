@@ -1,0 +1,6 @@
+prix,ville,type,chambres,salles_de_bains
+600000,Montréal,Loft,3,2 
+900000,Toronto,Maison,3,1 
+500000,Toronto,Condo,2,1 
+900000,Québec,Maison,3,2 
+96000,Ottawa,Loft,1,1 
