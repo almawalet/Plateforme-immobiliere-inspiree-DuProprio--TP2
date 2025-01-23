@@ -26,16 +26,3 @@ Le projet est structuré en plusieurs modules pour assurer une organisation clai
 
 Pour exécuter ce projet, vous devez avoir Python 3 installé sur votre machine. 
 
-```bash
-python ift1004_solo_immo.py
-```
-
-Lorsque vous exécutez `ift1004_solo_immo.py`, un menu interactif s'affichera, vous offrant plusieurs options. Suivez les instructions à l'écran pour naviguer dans l'application et accéder aux différentes fonctionnalités. **Notez que l'application sera pleinement fonctionnelle une fois que vous aurez complété toutes les fonctions marquées par # TODO.**
-
-## Points importants
-
-- Assurez-vous que la version de votre travail déposée sur le site du cours correspond à votre dernier « commit » sur GitHub.
-- Veillez à ce que votre dépôt GitHub soit **PRIVÉ**! La diffusion du code sur un dépôt public pourrait être considérée comme une participation à un acte de plagiat.
-- Ajoutez les utilisateurs GitHub indiqués sur le site de cours comme collaborateurs sur votre dépôt GitHub.
-
-Bonne chance!
